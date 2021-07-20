@@ -22,7 +22,7 @@
     "lodash": "^4.17.15",
     "native-base": "^2.13.8",
     "react": "16.8.6",
-    "react-native": "0.60.5",
+    "react-native": "0.62.3",
     "react-native-deep-link": "^0.2.9",
     "react-native-fs": "^2.14.1",
     "react-native-gesture-handler": "^1.4.1",
